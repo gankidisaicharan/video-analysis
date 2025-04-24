@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nltk
+spacy
+moviepy
+pydub
+speechrecognition
+rake-nltk
+rouge
+google
